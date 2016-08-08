@@ -1,0 +1,3 @@
+[submodule "Mylibrary"]
+	path = Mylibrary
+	url = git@github.com:soochowtracy/MyLibrary.git
